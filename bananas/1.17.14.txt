@@ -1,0 +1,35 @@
+SDK (software development kit)
+API (application programming interface, comes with preset ie Eclipse + Java)
+IDE (integrated development environment, Netbeans)
+
+<input type="text" required/>
+
+<input type="email" required placeholder="you@dopmain.com"/>
+
+<input type="url" placeholder="http://www.you.com" />
+
+<input type="phone pattern..../>
+
+BASIC SELECTORS
+
+$("selector");.method();
+
+$(".uniforms");
+
+ATTRIBUTE SELECTORS
+
+$("selector[attr]");
+
+There are also begins with and ends with
+
+codepen.io
+
+http://www.microsoftvirtualacademy.com/product-training/visual-studio-courses
+
+http://www.microsoftvirtualacademy.com/training-courses/building-responsive-ui-with-bootstrap
+
+http://www.microsoftvirtualacademy.com/training-courses/using-git-with-visual-studio-2013-jump-start
+
+http://bootswatch.com/
+
+http://getbootstrap.com/2.3.2/components.html
